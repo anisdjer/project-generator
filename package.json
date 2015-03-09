@@ -1,0 +1,19 @@
+{
+  "name": "generator",
+  "version": "0.0.0",
+  "description": "This is not public, it's for my personal usage. If you download it, you can't use it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anisdjer/project-generator.git"
+  },
+  "author": "Anis B <leprinceanis@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/anisdjer/project-generator/issues"
+  },
+  "homepage": "https://github.com/anisdjer/project-generator"
+}
